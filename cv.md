@@ -2,7 +2,7 @@
 ## Contacts
  E-mail: *yury80@gmail.com*
 Phone/Telegram: *+375 44 74 50 940* 
--------------------------
+
 ## Work expirience
 * ### 2005 – 2007
 ##### Publishing house of Ministry of Internal Affairs
@@ -20,7 +20,7 @@ WP Freelancer
 * ### 2020 - now
 ##### SMART APPS 
 WP developer 
--------------------------
+
 ## Key skills
 * PHP
 * CSS
@@ -38,7 +38,7 @@ WP developer
 * Adobe Lightroom
 * Adobe Illustrator
 * English B-1 level
--------------------------
+
 ## Resent works
 * [comfortkingusa.com](http://comfortkingusa.com) Сomplete rework  of B2B shop
 * [cztranslate.by](https://cztranslate.by) Non-commercial. Translator's portfolio. Avada fusion page builder, custom design, LAMP Server, Plesk.
@@ -48,10 +48,10 @@ WP developer
 * [bookvas.net](https://bookvas.net) Commercial. Writer's blog. Custom theme design and coding, LAMP Server, ISP-manager. 
 * [blizzardborn.by](https://blizzardborn.by) Commercial. BMD & Papillion kennel WP Avada page builder, LAMP Server, Plesk
 * [young.belgreens.org](https://young.belgreens.org) Commercial. Political party corporate website. Still in development. Custom theme design and coding, multisite, custom design LightSpeed Server.
--------------------------
+
 ## Education
 ###  1999-2004 
 studied at the BSU on the biological faculty (biochemistry).
--------------------------
+
 ## English level 
 B1
